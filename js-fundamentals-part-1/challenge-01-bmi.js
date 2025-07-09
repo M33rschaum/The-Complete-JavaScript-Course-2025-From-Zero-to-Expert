@@ -17,15 +17,20 @@ Test data:
 
 const heightMark = 1.69;
 const massMark = 78;
-
 const heightJohn = 1.95;
 const massJohn = 92;
 
+//const heightMark = 1.88;
+//const massMark = 95;
+//const heightJohn = 1.76;
+//const massJohn = 85;
+
 const BMIMark = massMark / (heightMark * heightMark);
 const BMIJohn = massJohn / (heightJohn * heightJohn);
-
-console.log(BMIMark);
-console.log(BMIJohn);
-
 const markHigherBMI = BMIMark > BMIJohn;
-console.log(markHigherBMI);
+
+console.log(BMIMark, BMIJohn, markHigherBMI);
+
+
+
+
