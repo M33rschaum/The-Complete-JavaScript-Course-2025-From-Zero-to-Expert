@@ -14,7 +14,7 @@ This course covers modern JavaScript from the ground up. It includes:
 
 ## 🧠 What’s in This Repo
 
-The repository is organized by section and includes:
+The repository includes:
 
 - ✅ Coding challenges and mini-projects  
 - 🧪 Practice exercises  
